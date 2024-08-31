@@ -202,8 +202,8 @@ const char index_html[] PROGMEM = R"rawliteral(<!DOCTYPE html>
 #define dht22pin D2
 
 DHT22 dht22(dht22pin);
-const char* ssid = "leviatan2";
-const char* password = "Ardu!noMol@Mazo";
+const char* ssid = "yourroutername";
+const char* password = "password";
 String JsonData;
 
 float maxH; String t_maxH;

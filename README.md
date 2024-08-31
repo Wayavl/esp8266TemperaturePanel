@@ -1,5 +1,5 @@
 # esp8266TemperaturePanel
-** This is a project made for fun, it has a good user interface and is very user friendly. **
+ **This project was made for fun, it has a good user interface and is very user friendly.** 
 # HTML Language
 - ES from Spain
 
